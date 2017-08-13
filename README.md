@@ -1,2 +1,2 @@
-# TensorFlowRNN
-A Guide for RNN implementation in TensorFlow for absolute beginners
+# TensorFlowLSTM
+A Guide for LSTM implementation in TensorFlow for absolute beginners
